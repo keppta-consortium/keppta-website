@@ -5,7 +5,21 @@
   "hero": {
     "eyebrow": "Keeping People & Pets Together Consortium",
     "title": "No one should have to choose between a safe place to stay and their pet.",
-    "intro": "Pets provide companionship, comfort and stability during some of life's most challenging times. We bring together organisations from across the UK to improve access to pet-inclusive services and accommodation."
+    "intro": "Pets provide companionship, comfort and stability during some of life's most challenging times. We bring together organisations from across the UK to improve access to pet-inclusive services and accommodation.",
+    "images": [
+      {
+        "image": "media/whatsapp-image-2026-11-23-at-142617.jpeg",
+        "imageAlt": "beach-dogs"
+      },
+      {
+        "image": "media/whatsapp-image-2026-11-23-at-181053.jpeg",
+        "imageAlt": "sammy-the-cat"
+      },
+      {
+        "image": "media/whatsapp-image-2026-11-23-at-181025.jpeg",
+        "imageAlt": "dog-selfie"
+      }
+    ]
   },
   "about": {
     "intro": "KePPTA brings together organisations from across the UK to make homelessness services and accommodation more welcoming to people with pets.",
