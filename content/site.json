@@ -5,8 +5,7 @@
   "hero": {
     "eyebrow": "Keeping People & Pets Together Consortium",
     "title": "No one should have to choose between a safe place to stay and their pet.",
-    "intro": "Pets provide companionship, comfort and stability during some of life's most challenging times. We bring together organisations from across the UK to improve access to pet-inclusive services and accommodation.",
-    "images": []
+    "intro": "Pets provide companionship, comfort and stability during some of life's most challenging times. We bring together organisations from across the UK to improve access to pet-inclusive services and accommodation."
   },
   "about": {
     "intro": "KePPTA brings together organisations from across the UK to make homelessness services and accommodation more welcoming to people with pets.",
@@ -58,6 +57,7 @@
     {
       "name": "Newcastle University",
       "initials": "NU",
+      "image": "media/universityofnewcastlecoatofarms.svg",
       "imageAlt": "Newcastle University member image",
       "description": "Dr Mackenzie Fong is a researcher who evaluates interventions and policies across a range of public health areas.",
       "url": "https://www.ncl.ac.uk/"
@@ -97,8 +97,7 @@
       "date": "24 November 2026 · 2pm",
       "title": "Promoting Pet-Inclusive Accommodation and Services",
       "description": "Hosted by the consortium with IMPACT and Homeless Link, this webinar will explore why pet-inclusive approaches matter, challenge common misconceptions and showcase practical ways organisations can become more welcoming. Attendees will hear from people with lived experience, learn about specialist support, and discover practical steps to become more pet inclusive.",
-      "linkText": "Registration details will be shared here.",
-      "linkUrl": ""
+      "linkText": "Registration details will be shared here."
     },
     {
       "kind": "Award",
