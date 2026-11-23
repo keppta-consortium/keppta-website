@@ -1,6 +1,6 @@
 {
-  "brand": "KePPT Consortium",
-  "tagline": "Keeping people and pets together",
+  "brand": "KePPTA Consortium",
+  "tagline": "Keeping people and pets together alliance",
   "logo": "logo-colour.svg",
   "hero": {
     "eyebrow": "Keeping People & Pets Together Consortium",
@@ -41,6 +41,7 @@
     {
       "name": "Dogs Trust",
       "initials": "DT",
+      "image": "media/dogs-trust.jpg",
       "imageAlt": "Dogs Trust member image",
       "description": "Together Through Homelessness is Dogs Trust's contribution to the consortium.",
       "url": "https://www.dogstrusthopeproject.org.uk/"
@@ -73,7 +74,8 @@
       {
         "type": "Charter",
         "title": "Keeping Pets and People Together Charter",
-        "description": "The Charter sets out guiding principles and practical commitments to help organisations become more companion animal inclusive. It encourages collaboration across housing, health, local authorities, homelessness services, animal welfare organisations and community partners to create systems that value relationships, promote dignity, and recognise the relationship between a person and their pet as a strength. It was developed through co-design workshops and engagement sessions led by Rosie, IMPACT Facilitator, with consortium members."
+        "description": "The Charter sets out guiding principles and practical commitments to help organisations become more companion animal inclusive. It encourages collaboration across housing, health, local authorities, homelessness services, animal welfare organisations and community partners to create systems that value relationships, promote dignity, and recognise the relationship between a person and their pet as a strength. It was developed through co-design workshops and engagement sessions led by Rosie, IMPACT Facilitator, with consortium members.",
+        "link": "https://impact.bham.ac.uk/wp-content/uploads/2026/07/Keeping-Pets-and-People-Together-Charter-1.pdf"
       },
       {
         "type": "Template",
