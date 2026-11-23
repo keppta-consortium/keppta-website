@@ -14,6 +14,10 @@
       {
         "image": "media/whatsapp-image-2026-11-23-at-181053.jpeg",
         "imageAlt": "sammy-the-cat"
+      },
+      {
+        "image": "media/whatsapp-image-2026-11-23-at-201725.jpeg",
+        "imageAlt": "winnie-beach"
       }
     ]
   },
@@ -134,7 +138,14 @@
   "contact": {
     "message": "For general enquiries, partnership opportunities or to share your experience, please contact the consortium and one of the members will get back to you.",
     "email": "contact@keppta.org.uk",
-    "images": []
+    "images": [
+      {
+        "image": "media/whatsapp-image-2026-11-23-at-181025-1.jpeg"
+      },
+      {
+        "image": "media/whatsapp-image-2026-11-23-at-201326.jpeg"
+      }
+    ]
   },
   "favicon": "media/logo.png",
   "theme": {
