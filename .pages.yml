@@ -91,7 +91,14 @@ content:
               - { name: type, label: Type (e.g. resource or charter), type: string }
               - { name: title, label: Title, type: string }
               - { name: description, label: Description, type: text }
-              - { name: link, label: Link (optional), type: string }
+              - name: links
+                label: Links (up to 2)
+                type: object
+                list:
+                  max: 2
+                fields:
+                  - { name: text, label: Link text, type: string }
+                  - { name: url, label: Link URL, type: string }
               - { name: image, label: Image (optional), type: image }
               - { name: imageAlt, label: Image description, type: string }
       - name: newsEvents
