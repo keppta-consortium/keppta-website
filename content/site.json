@@ -133,7 +133,23 @@
   },
   "contact": {
     "message": "For general enquiries, partnership opportunities or to share your experience, please contact the consortium and one of the members will get back to you.",
-    "email": "contact@keppta.org.uk"
+    "email": "contact@keppta.org.uk",
+    "images": []
   },
-  "favicon": "media/logo.png"
+  "favicon": "media/logo.png",
+  "theme": {
+    "background": "#fffaf2",
+    "surface": "#ffffff",
+    "alternateBackground": "#f4e8d7",
+    "text": "#172c32",
+    "mutedText": "#455a60",
+    "teal": "#176c73",
+    "darkTeal": "#123e49",
+    "amber": "#eea32f",
+    "coral": "#e66d50",
+    "border": "#dfcdb8",
+    "heroStart": "#ffe4b2",
+    "heroMiddle": "#f9c58c",
+    "heroEnd": "#f6e7d0"
+  }
 }
