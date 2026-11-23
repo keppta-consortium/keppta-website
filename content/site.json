@@ -6,7 +6,7 @@
     "eyebrow": "Keeping People & Pets Together Consortium",
     "title": "No one should have to choose between a safe place to stay and their pet.",
     "intro": "Pets provide companionship, comfort and stability during some of life's most challenging times. We bring together organisations from across the UK to improve access to pet-inclusive services and accommodation.",
-    "videoUrl": "https://youtu.be/Ns7kCIZjhkI"
+    "images": []
   },
   "about": {
     "intro": "KePPTA brings together organisations from across the UK to make homelessness services and accommodation more welcoming to people with pets.",
@@ -19,7 +19,8 @@
       "We are working towards a future where people are not forced to choose between accessing accommodation or services and keeping their pet.",
       "The consortium brings organisations together to share learning, promote good practice, and influence policy to increase the availability of pet-inclusive services and accommodation."
     ],
-    "videoLabel": "Watch our video"
+    "videoLabel": "Watch our video",
+    "videoUrl": "https://youtu.be/Ns7kCIZjhkI"
   },
   "members": [
     {
@@ -96,7 +97,8 @@
       "date": "24 November 2026 · 2pm",
       "title": "Promoting Pet-Inclusive Accommodation and Services",
       "description": "Hosted by the consortium with IMPACT and Homeless Link, this webinar will explore why pet-inclusive approaches matter, challenge common misconceptions and showcase practical ways organisations can become more welcoming. Attendees will hear from people with lived experience, learn about specialist support, and discover practical steps to become more pet inclusive.",
-      "note": "Registration details will be shared here."
+      "linkText": "Registration details will be shared here.",
+      "linkUrl": ""
     },
     {
       "kind": "Award",
@@ -122,5 +124,6 @@
   "contact": {
     "message": "For general enquiries, partnership opportunities or to share your experience, please contact the consortium and one of the members will get back to you.",
     "email": "contact@keppta.org.uk"
-  }
-}
+  },
+  "favicon": "media/logo.png"
+}\n
