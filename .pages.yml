@@ -53,7 +53,7 @@ content:
           - { name: videoUrl, label: Vision video URL (YouTube), type: string }
           - { name: videoLabel, label: Video button text, type: string }
       - name: members
-        label: Consortium members
+        label: Alliance members
         type: object
         list:
           collapsible:
