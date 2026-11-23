@@ -23,23 +23,6 @@ content:
       - name: favicon
         label: Browser tab icon
         type: image
-      - name: theme
-        label: Theme colours
-        type: object
-        fields:
-          - { name: background, label: Page background (hex), type: string }
-          - { name: surface, label: Card background (hex), type: string }
-          - { name: alternateBackground, label: Section background (hex), type: string }
-          - { name: text, label: Main text (hex), type: string }
-          - { name: mutedText, label: Supporting text (hex), type: string }
-          - { name: teal, label: Teal accent (hex), type: string }
-          - { name: darkTeal, label: Dark teal (hex), type: string }
-          - { name: amber, label: Amber accent (hex), type: string }
-          - { name: coral, label: Coral accent (hex), type: string }
-          - { name: border, label: Border (hex), type: string }
-          - { name: heroStart, label: Introduction gradient start (hex), type: string }
-          - { name: heroMiddle, label: Introduction gradient middle (hex), type: string }
-          - { name: heroEnd, label: Introduction gradient end (hex), type: string }
       - name: hero
         label: Homepage introduction
         type: object
@@ -151,6 +134,23 @@ content:
             fields:
               - { name: image, label: Image, type: image }
               - { name: imageAlt, label: Image description, type: string }
+      - name: theme
+        label: Theme colours
+        type: object
+        fields:
+          - { name: background, label: Page background (hex), type: string }
+          - { name: surface, label: Card background (hex), type: string }
+          - { name: alternateBackground, label: Section background (hex), type: string }
+          - { name: text, label: Main text (hex), type: string }
+          - { name: mutedText, label: Supporting text (hex), type: string }
+          - { name: teal, label: Teal accent (hex), type: string }
+          - { name: darkTeal, label: Dark teal (hex), type: string }
+          - { name: amber, label: Amber accent (hex), type: string }
+          - { name: coral, label: Coral accent (hex), type: string }
+          - { name: border, label: Border (hex), type: string }
+          - { name: heroStart, label: Introduction gradient start (hex), type: string }
+          - { name: heroMiddle, label: Introduction gradient middle (hex), type: string }
+          - { name: heroEnd, label: Introduction gradient end (hex), type: string }
 
 settings:
   content:
