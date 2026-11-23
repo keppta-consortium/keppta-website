@@ -51,5 +51,8 @@
       text('impact-copy',d.collaboration.impact);text('collab-intro',d.collaboration.intro);text('partner-copy',d.collaboration.partners);text('lived-copy',d.collaboration.livedExperience);text('contact-copy',d.contact.message);setupGallery(d.contact.images||[],'contact-image-next','contact-image','contact');const links=el('contact-links');if(d.contact.email){const a=document.createElement('a');a.href=`mailto:${d.contact.email}`;a.textContent=d.contact.email;links.append(a);}if(d.contact.socialUrl){if(links.childNodes.length)links.append(' · ');const a=document.createElement('a');a.href=d.contact.socialUrl;a.textContent='Social media';a.target='_blank';a.rel='noopener';links.append(a);}text('footer-brand',d.brand);text('footer-tagline',d.tagline);
     }).catch(()=>{document.querySelectorAll('main').forEach(main=>{const note=document.createElement('p');note.className='wrap';note.textContent='This page needs to be served from the website host to load its editable content.';main.prepend(note);});});
   </script>
+  <!-- Cloudflare Web Analytics -->
+  <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token":"4f015e3d5d894274a3646185448d9632"}'></script>
+  <!-- End Cloudflare Web Analytics -->
 </body>
 </html>
