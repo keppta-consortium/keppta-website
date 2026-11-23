@@ -26,7 +26,7 @@ jobs:
       - name: Prepare website files
         run: |
           mkdir public
-          cp index.html 'KePPT Consortium.html' logo-colour.svg public/
+          cp index.html KePPTA.html logo-colour.svg public/
           cp -R content media public/
       - name: Upload website
         uses: actions/upload-pages-artifact@v4
