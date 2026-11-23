@@ -66,6 +66,18 @@ content:
           - { name: imageAlt, label: Image description, type: string }
           - { name: description, label: Description, type: text }
           - { name: url, label: Website address, type: string }
+      - name: collaborators
+        label: Current collaborators
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{name}"
+        fields:
+          - { name: name, label: Organisation, type: string }
+          - { name: description, label: Description, type: text }
+          - { name: image, label: Image (optional), type: image }
+          - { name: url, label: Website address (optional), type: string }
       - name: why
         label: Why this matters
         type: object
@@ -123,7 +135,6 @@ content:
         label: Get involved
         type: object
         fields:
-          - { name: impact, label: IMPACT collaboration, type: text }
           - { name: intro, label: Invitation, type: text }
           - { name: partners, label: Organisations and partners, type: text }
           - { name: livedExperience, label: People with lived experience, type: text }
