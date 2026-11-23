@@ -27,7 +27,7 @@ content:
           - { name: eyebrow, label: Small heading, type: string }
           - { name: title, label: Main heading, type: text }
           - { name: intro, label: Introduction, type: text }
-          - { name: videoUrl, label: Vision video URL (YouTube), type: string }
+          - name: images\n            label: Introduction images (square gallery, 5-second rotation)\n            type: object\n            list: true\n            fields:\n              - { name: image, label: Image, type: image }\n              - { name: imageAlt, label: Image description, type: string }
       - name: about
         label: About the consortium
         type: object
@@ -41,7 +41,7 @@ content:
             label: Vision paragraphs
             type: text
             list: true
-          - { name: videoLabel, label: Video button text, type: string }
+          - { name: videoUrl, label: Vision video URL (YouTube), type: string }\n          - { name: videoLabel, label: Video button text, type: string }
       - name: members
         label: Consortium members
         type: object
@@ -100,7 +100,7 @@ content:
           - { name: description, label: Card text, type: text }
           - { name: image, label: Image (optional), type: image }
           - { name: imageAlt, label: Image description, type: string }
-          - { name: note, label: Extra note (optional), type: string }
+          - { name: linkText, label: Link text (optional), type: string }\n          - { name: linkUrl, label: Link URL (optional), type: string }
       - name: collaboration
         label: Get involved
         type: object
