@@ -1,5 +1,5 @@
 {
-  "brand": "KePPTA Consortium",
+  "brand": "KePPTA",
   "tagline": "Keeping people and pets together alliance",
   "logo": "logo-colour.svg",
   "hero": {
@@ -49,6 +49,7 @@
     {
       "name": "Vets in the Community",
       "initials": "VC",
+      "image": "media/vetscommunity.png",
       "imageAlt": "Vets in the Community member image",
       "description": "A founding consortium member.",
       "url": "https://vetsinthecommunity.weebly.com/"
