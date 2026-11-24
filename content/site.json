@@ -1,6 +1,6 @@
 {
   "brand": "KePPTA",
-  "tagline": "Keeping People & Pets Together Alliance",
+  "tagline": "Keeping Pets & People Together Alliance",
   "logo": "media/logo.png",
   "hero": {
     "title": "No one should have to choose between a safe place to stay and their pet.",
@@ -15,7 +15,7 @@
         "imageAlt": "sammy-the-cat"
       }
     ],
-    "eyebrow": "Driving Change to Keep People and Pets Together."
+    "eyebrow": "Driving Change to Keep Pets and People Together."
   },
   "about": {
     "intro": "KePPTA brings together organisations from across the UK to make homelessness services and accommodation more welcoming to people with pets.",
@@ -34,7 +34,7 @@
   "collaborators": [
     {
       "name": "IMPACT",
-      "description": "IMPACT continues to support the consortium through its National Embedding Team. Marivjena Menka, National Embedding Manager at IMPACT, works closely with members to support the consortium's development, facilitate collaboration, identify opportunities for change, share learning and evidence, and support efforts to influence policy and practice.",
+      "description": "IMPACT continues to support the consortium through its National Embedding Team. Marivjena Menka, National Embedding Manager at IMPACT, works closely with members to support the  development of the alliance , facilitate collaboration, identify opportunities for change, share learning and evidence, and support efforts to influence policy and practice.",
       "url": "https://impact.bham.ac.uk/"
     }
   ],
@@ -132,11 +132,11 @@
     }
   ],
   "collaboration": {
-    "partners": "If you or your organisation is interested in supporting the consortium, sharing expertise, contributing resources, collaborating on projects or helping influence policy and practice, we would love to hear from you.",
+    "partners": "If you or your organisation is interested in supporting the alliance, sharing expertise, contributing resources, collaborating on projects or helping influence policy and practice, we would love to hear from you.",
     "livedExperience": "People with lived experience are central to our work. If you would like to share your experiences, story, insights or ideas, we would be pleased to hear from you. Your contribution can help raise awareness, inform good practice and support positive change for people and their pets."
   },
   "contact": {
-    "message": "For general enquiries, partnership opportunities or to share your experience, please contact the Alliance and one of its members will get back to you.",
+    "message": "For general enquiries, partnership opportunities or to share your experience, please contact the alliance and one of its members will get back to you.",
     "email": "contact@keppta.org.uk",
     "images": [
       {
